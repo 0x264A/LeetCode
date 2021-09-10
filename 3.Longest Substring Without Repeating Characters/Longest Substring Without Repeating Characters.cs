@@ -1,3 +1,7 @@
+//Given a string s, find the length of the longest substring without repeating characters.
+
+
+//First Thoughts
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -21,7 +25,7 @@ public:
         
     }
 };
-
+// Using map
 class Solution1 {
 public:
     int lengthOfLongestSubstring(string s) {
