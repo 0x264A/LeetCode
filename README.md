@@ -1,1 +1,1 @@
-Solutions for some LeetCode Problems.
+Solutions for some LeetCode Problems written in C++.
